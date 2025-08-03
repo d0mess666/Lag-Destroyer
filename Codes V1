@@ -1,0 +1,18 @@
+Pro Lag Destroyer v1 (Windows Services Tuner)
+# Lag Destroyer v1 - Windows Services Tuner
+
+This script helps optimize your Windows system by disabling unnecessary background services, activating a high-performance power plan, and disabling telemetry features.  
+It is designed for gamers and users who want a smoother and faster Windows experience.
+
+### Features:
+- Disable background services that slow down the system  
+- Activate Ultimate Performance Power Plan  
+- Disable Windows telemetry and data collection  
+- Logs all actions for easy troubleshooting
+
+### Usage:
+Run the script as Administrator, then choose the options to optimize your system.
+
+---
+
+This version is stable and safe for most users.
